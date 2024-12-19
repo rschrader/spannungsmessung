@@ -10,7 +10,7 @@ int main(void)
     
     while (1) 
     {
-        USART0_sendString("Hello World!\r\n");
+        USART0_sendString("Hello Spannungspruefung!\r\n");
         _delay_ms(500);
     }
 }
